@@ -9,5 +9,9 @@
 - 作業 2
   - [code](https://github.com/leo5358/PL_1142/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part2.ipynb)
   - [video](https://youtu.be/CcH6jiL3kRo)
+ 
+- 作業 3
+  - [code](https://github.com/leo5358/PL_1142/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+  - [video](https://youtu.be/Fy6yRIkjOPU)   
 
 
