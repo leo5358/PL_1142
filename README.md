@@ -18,5 +18,5 @@
 - 作業 4
   - [code(.py)](https://github.com/leo5358/PL_1142/blob/main/hw4_rag.py)
   - [code(.ipynb)](https://github.com/leo5358/PL_1142/blob/main/HW4_rag.ipynb)
-  - [video](https://youtu.be/Fy6yRIkjOPU)
+  - [video](https://youtu.be/EWqvJ0aH4P0?si=rAU5dB3_xvkWeHQL)
   > 應該是因為widget過大，導致GitHub無法渲染.ipynb，但我暫時沒有心力去處理，因此附上.py檔
